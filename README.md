@@ -97,28 +97,28 @@ are using simple images like **Cityscape** or **PASCAL_VOC** dataset you will si
 
 ## Some Functionalities of GUI
 
-First naviget to your `env` and run the `gui.py` file via anaconda cmd.
+First navigate to your `env` and run the `gui.py` file via anaconda cmd.
 
-img1
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img1.png)
 
 The Model will start loading on your memoery (this will only happen at first run) you can entract with your GUI while model is loading. Because we are using threading to run the GUI in parallel.
 
-img2
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img2.png)
 
 You can see your `About Us` or `Help` sub-menue to see about what GUI does.
- img3
-img4
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img3.png)
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img4.png)
 
 After the model is done loading if you pressed the `Detect` button it'll through error.
 
-img5
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img5.png)
 
 Load your image
 
-img6
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img6.png)
 
 Now press `Detect` Button.
 
-img7
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img7.png)
 
-img8
+![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img8.png)
