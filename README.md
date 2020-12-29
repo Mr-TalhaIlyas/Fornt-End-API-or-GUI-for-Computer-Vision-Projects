@@ -4,9 +4,11 @@ This repo contains instructions on how you can make a user friendly GUI for non 
 
 I have made two seperate `gui.py` file for;
 * object_detection
-* segementatio
-both directories and `gui.py` has similar sturcture
+[![Alt text](https://i9.ytimg.com/vi/C4xr9jICxwA/mq3.jpg?sqp=CLTUq_8F&rs=AOn4CLD5QAa-GskD1Q_D2x_Cb906U7tKug)](https://www.youtube.com/watch?v=C4xr9jICxwA)
+* segementation
+[![Alt text](https://i9.ytimg.com/vi_webp/wTOuYLGfusc/mqdefault.webp?time=1609230600000&sqp=CIjSq_8F&rs=AOn4CLDQolcyo4hgXviOPL2hBgMjbR3LnQ)](https://www.youtube.com/watch?v=wTOuYLGfusc)
 
+both directories and `gui.py` has similar sturcture.
 ## Dependencies
 * Tkinter
 * PIL
@@ -90,9 +92,7 @@ I am using BraTS as in example so, as the scans in BraTS have 4 channels per sca
 are using simple images like **Cityscape** or **PASCAL_VOC** dataset you will simply use image and read them via cv2 or PIL etc.
 
 ## Note
-* To change the icon of your gui 
-** first resize the image you want to use to 64x64px
-** then convert it form `.jpg` or `.png` t0 `.ico` file. You can use any online convertor to do so.
+* To change the icon of your gui first resize the image you want to use to 64x64px then convert it form `.jpg` or `.png` t0 `.ico` file. You can use any online convertor to do so.
 * You also need to convert all the images that you are displaying with `tkinter` to range between [0, 255] and dtype `uint8` or else it'll through error.
 
 ## Some Functionalities of GUI
