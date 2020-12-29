@@ -3,11 +3,11 @@
 This repo contains instructions on how you can make a user friendly GUI for non programmers to use your models for Inference.
 
 I have made two seperate `gui.py` file for;
-* object_detection
+* object_detection (youtube video click thumbnail to open)
 
 [![Alt text](https://i9.ytimg.com/vi/C4xr9jICxwA/mq3.jpg?sqp=CLTUq_8F&rs=AOn4CLD5QAa-GskD1Q_D2x_Cb906U7tKug)](https://www.youtube.com/watch?v=C4xr9jICxwA)
 
-* segementation
+* segementation (youtube video click thumbnail to open)
 
 [![Alt text](https://i9.ytimg.com/vi_webp/wTOuYLGfusc/mqdefault.webp?time=1609230600000&sqp=CIjSq_8F&rs=AOn4CLDQolcyo4hgXviOPL2hBgMjbR3LnQ)](https://www.youtube.com/watch?v=wTOuYLGfusc)
 
