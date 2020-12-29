@@ -100,7 +100,7 @@ are using simple images like **Cityscape** or **PASCAL_VOC** dataset you will si
 
 ## Some Functionalities of GUI
 
-First navigate to your `env` and run the `gui.py` file via anaconda cmd.
+First activate your `env` navigate to the dir and run the `gui.py` file via anaconda cmd.
 
 ![alt text](https://github.com/Mr-TalhaIlyas/Fornt-End-API-or-GUI-for-Computer-Vision-Projects/blob/master/screens/img1.png)
 
