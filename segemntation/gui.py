@@ -17,7 +17,7 @@ from threading import Thread
 # Decair variables and create class instances
 ##################################################
 
-model = SurvedModel()
+
 # For details regarding paprika in drop down menu
 details = 'BraTS is acronym of Multimodal Brain Tumor Segmentation. The details of dataset can be found at \
             \n https://www.med.upenn.edu/cbica/brats2020/data.html'
@@ -29,6 +29,8 @@ help_msg = 'An implementation of paper named.\n"BU-Net: Brain Tumor Segmentation
 ##################################################
 def model_loader():
     '''For loading the model on GPU by givin dummy input'''
+    golbal model
+    model = SurvedModel()
     #_ = model.predict(np.ones((600,600,3)).astype(np.uint8))
     
 def paprika():
