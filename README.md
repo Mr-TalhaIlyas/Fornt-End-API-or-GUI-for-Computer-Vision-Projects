@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/324368921.svg)](https://zenodo.org/badge/latestdoi/324368921)
 # Python GUI/Front-end for you Machine Learning or Computer Vision Projects
 
 This repo contains instructions on how you can make a user friendly GUI for non programmers to use your models for Inference.
